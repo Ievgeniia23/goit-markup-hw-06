@@ -19,7 +19,10 @@
       text-align: center;
     }
      .logo-footer-container {
-        margin-bottom: 72px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      margin-bottom: 72px;
        
      }
     .social-list-footer-container {
