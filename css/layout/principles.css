@@ -1,0 +1,112 @@
+
+@media screen and (max-width: 768px) {
+.principles-menu-item {
+    margin-bottom: 72px;
+  }
+.princ-menu-item-titl {
+    text-align: center;
+}
+}
+
+@media screen and (max-width: 1158px) {
+    .icon-container {
+        display: none;
+    }
+    
+    .principles-menu {
+        margin-top: 96px;
+        margin-bottom: 96px;
+        height: 100%;
+    }
+    .mobile-menu-item-title {
+        font-size: 36px;
+        font-weight: 700;
+        line-height: 1.11; 
+    }
+}
+
+
+@media screen and (min-width: 768px) {
+    .principles-menu {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 72px 24px;
+    } 
+.principles-menu-item {
+        width: calc((100% - 24px) / 2);
+    }
+}
+
+@media screen and (min-width: 1158px) {
+.principles-page {
+    padding-top: 120px;
+    padding-bottom: 120px;
+  }
+}
+.principles-menu {
+    display: flex;
+    gap: 24px;
+  }
+
+  .principles-menu-item {
+    width: calc((100% - 72px)  / 4);
+  }
+
+  .menu-item-description {
+    color: var(--slate, #434455);
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+       }
+
+  .icon-container {
+    width: 264px;
+    height: 112px;
+    display: flex;
+    margin-bottom: 8px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 4px;
+    border: 1px solid var(--LIGHT-SLATE, #8E8F99);
+    background: var(--CLOUD, #F4F4FD);
+    }
+*/
+
+
+
+
+
+/*
+    .principles-page {
+    padding-top: 120px;
+    padding-bottom: 120px;
+  }
+  
+  .principles-menu {
+      display: flex;
+      gap: 24px;
+    }
+  
+    .principles-menu-item {
+      width: calc((100% - 72px)  / 4);
+    }
+  
+    .menu-item-description {
+      color: var(--slate, #434455);
+      font-size: 16px;
+      line-height: 1.5;
+      letter-spacing: 0.02em;
+         }
+  
+    .icon-container {
+      width: 264px;
+      height: 112px;
+      display: flex;
+      margin-bottom: 8px;
+      justify-content: center;
+      align-items: center;
+      border-radius: 4px;
+      border: 1px solid var(--LIGHT-SLATE, #8E8F99);
+      background: var(--CLOUD, #F4F4FD);
+      }
+  */

@@ -10,3 +10,7 @@
 /*LAYOUT*/
 @import "./layout/header.css";
 @import "./layout/hero.css";
+@import "./layout/principles.css";
+@import "./layout/team.css";
+@import "./layout/portfolio.css";
+@import "./layout/footer.css";

@@ -3,7 +3,7 @@
 -px-767px
 */ /*===== MOBILE MENU=====*/
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 768px) {
 .menu {
     display: none;
     }
@@ -193,10 +193,6 @@
     }
 }
 
-
-
-
-
 .page-navigation {
     display: flex;
     align-items: center;
@@ -235,7 +231,7 @@
     bottom: -1px;
     
 }
-
+                    /*=====Desktop======*/
 
 @media screen and (min-width: 1158px) { 
 .logo {
