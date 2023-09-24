@@ -1,10 +1,11 @@
-
-
-
-
+@media screen and (max-width: 768px){
+.team-menu-item {
+    margin-bottom: 72px;
+}
+}
 @media screen and (max-width: 1158px) {
 .team-page {
-     padding: 96px 0;
+     padding: 24px 0;
         }
     }
 

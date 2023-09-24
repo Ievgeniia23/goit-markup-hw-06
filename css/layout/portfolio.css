@@ -11,6 +11,9 @@
 .portfolio-menu-item {
     margin-bottom: 48px;
 }
+.portfolio-menu {
+  overflow: hidden;
+}
 }
 
           /*=====Mobile. Tablet=====*/
@@ -36,7 +39,7 @@ align-content: center;
     .portfolio-menu {
         display: flex;
         flex-wrap: wrap;
-        column-gap: 40px;
+        column-gap: 24px;
         row-gap: 72px;
       }
     .portfolio-menu-item {

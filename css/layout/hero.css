@@ -190,10 +190,10 @@
     border: none; 
   }
                     /*=====MOBILE=====*/
-  @media screen and (max-width: 768px) {
+  @media screen and (max-width: 767px) {
     .modal {
         width: 288px;
-        min-height: 632px; 
+        min-height: 623px; 
     }
     }
   
