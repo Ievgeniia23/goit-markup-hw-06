@@ -42,10 +42,10 @@
     background-position: center;
     margin-right: auto;
     margin-left: auto;
-    height: 100%px;
+    height: 100%;
     padding: 72px 0;
     background-image: linear-gradient(rgba(67, 69, 102, 0.7), rgba(46, 47, 66, 0.7)), 
-    url(/images/retina/office-mobile.jpg);
+    url(../../images/office-mobile.jpg);
     }
     }
 
@@ -54,7 +54,7 @@
                and (min-device-pixel-ratio: 2) and (max-width: 768px) {
 .hero-page {
     background-image: linear-gradient(rgba(67, 69, 102, 0.7), rgba(46, 47, 66, 0.7)),
-    url(/images/retina/office-mobile@2x.jpg);
+    url(../../images/office-mobile@2x.jpg);
     }
     }
        
@@ -82,7 +82,7 @@
     height: 100%;
     padding: 112px 0;
     background-image: linear-gradient(rgba(67, 69, 102, 0.7), rgba(46, 47, 66, 0.7)), 
-    url(/images/retina/office-tablet.jpg);
+    url(../../images/office-tablet.jpg);
     }
     } 
         
@@ -91,7 +91,7 @@
                and (min-device-pixel-ratio: 2) and (min-width: 768px) {
 .hero-page {
     background-image:  linear-gradient(rgba(67, 69, 102, 0.7), rgba(46, 47, 66, 0.7)),
-    url(/images/retina/office-tablet@2x.jpg);
+    url(../../images/office-tablet@2x.jpg);
     }
     }
 
@@ -102,7 +102,7 @@
 .hero-page {
     padding: 112px 0;
     background-image:  linear-gradient(rgba(67, 69, 102, 0.7), rgba(46, 47, 66, 0.7)),
-    url(/images/retina/office-desktop.jpg);
+    url(../../images/office-desktop.jpg);
     } 
     }
 
@@ -111,7 +111,7 @@
                and (min-device-pixel-ratio: 2) and (min-width: 1158px) {
 .hero-page {
     background-image:  linear-gradient(rgba(67, 69, 102, 0.7), rgba(46, 47, 66, 0.7)),
-    url(/images/retina/office-desktop@2x.jpg);
+    url(../../images/office-desktop@2x.jpg);
     }
     }
 

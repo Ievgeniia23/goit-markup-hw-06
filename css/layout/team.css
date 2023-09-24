@@ -21,9 +21,15 @@
     .team-page {
         height: 732px;
         padding: 120px 0;
+
         }
 }
 
+img {
+    height: auto;
+    width: 100%;
+    display: block;
+}
     
 .team-page {
         background: var(--cloud, #F4F4FD);
