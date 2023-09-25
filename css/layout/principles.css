@@ -2,28 +2,32 @@
 
 
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
 .principles-menu-item {
     margin-bottom: 72px;
     width: 288px;
+    display: flex;
+   flex-direction: column;
+   align-items: center;
   }
-.princ-menu-item-titl {
-    text-align: center;
-}
+  .principles-menu-item:last-child {
+    margin-bottom: 0;
+  }
+
 .icon-container {
   display: none;
 }
+
 }
 @media screen and (max-width: 1158px) {
     .icon-container {
         display: none;
     }
-    
-    .principles-menu {
-        margin-top: 96px;
-        margin-bottom: 96px;
-        height: 100%;
-    }
+   .principles-page {
+    padding-top: 96px;
+    padding-bottom: 96px;
+   }
+   
     .mobile-menu-item-title {
         font-size: 36px;
         font-weight: 700;

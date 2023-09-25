@@ -7,10 +7,14 @@
 
           /*=====Mobile=====*/
 
-@media screen and (max-width: 768px) {
+@media (max-width: 767px) {
 .portfolio-menu-item {
     margin-bottom: 48px;
 }
+.portfolio-menu-item:last-child {
+  margin-bottom:0;
+}
+
 .portfolio-menu {
   overflow: hidden;
 }

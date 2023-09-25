@@ -1,9 +1,8 @@
 
           /*=====Mobile=====*/
 
-@media  (max-width: 768px) {
-.footer-container {
-        height: 664px;
+@media  (max-width: 767px) {
+.footer-page {
         padding-top: 96px;
         padding-bottom: 96px;
        
